@@ -1,0 +1,16 @@
+C:\Users\jeferson.ribeiro\Workspace\WorkAnalyzer\WorkAnalyzer\bin\Debug\net5.0\WorkAnalyzer.exe
+C:\Users\jeferson.ribeiro\Workspace\WorkAnalyzer\WorkAnalyzer\bin\Debug\net5.0\WorkAnalyzer.deps.json
+C:\Users\jeferson.ribeiro\Workspace\WorkAnalyzer\WorkAnalyzer\bin\Debug\net5.0\WorkAnalyzer.runtimeconfig.json
+C:\Users\jeferson.ribeiro\Workspace\WorkAnalyzer\WorkAnalyzer\bin\Debug\net5.0\WorkAnalyzer.runtimeconfig.dev.json
+C:\Users\jeferson.ribeiro\Workspace\WorkAnalyzer\WorkAnalyzer\bin\Debug\net5.0\WorkAnalyzer.dll
+C:\Users\jeferson.ribeiro\Workspace\WorkAnalyzer\WorkAnalyzer\bin\Debug\net5.0\ref\WorkAnalyzer.dll
+C:\Users\jeferson.ribeiro\Workspace\WorkAnalyzer\WorkAnalyzer\bin\Debug\net5.0\WorkAnalyzer.pdb
+C:\Users\jeferson.ribeiro\Workspace\WorkAnalyzer\WorkAnalyzer\obj\Debug\net5.0\WorkAnalyzer.csproj.AssemblyReference.cache
+C:\Users\jeferson.ribeiro\Workspace\WorkAnalyzer\WorkAnalyzer\obj\Debug\net5.0\WorkAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeferson.ribeiro\Workspace\WorkAnalyzer\WorkAnalyzer\obj\Debug\net5.0\WorkAnalyzer.AssemblyInfoInputs.cache
+C:\Users\jeferson.ribeiro\Workspace\WorkAnalyzer\WorkAnalyzer\obj\Debug\net5.0\WorkAnalyzer.AssemblyInfo.cs
+C:\Users\jeferson.ribeiro\Workspace\WorkAnalyzer\WorkAnalyzer\obj\Debug\net5.0\WorkAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\jeferson.ribeiro\Workspace\WorkAnalyzer\WorkAnalyzer\obj\Debug\net5.0\WorkAnalyzer.dll
+C:\Users\jeferson.ribeiro\Workspace\WorkAnalyzer\WorkAnalyzer\obj\Debug\net5.0\ref\WorkAnalyzer.dll
+C:\Users\jeferson.ribeiro\Workspace\WorkAnalyzer\WorkAnalyzer\obj\Debug\net5.0\WorkAnalyzer.pdb
+C:\Users\jeferson.ribeiro\Workspace\WorkAnalyzer\WorkAnalyzer\obj\Debug\net5.0\WorkAnalyzer.genruntimeconfig.cache
